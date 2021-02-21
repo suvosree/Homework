@@ -1,0 +1,4 @@
+3,6,9,89
+Min value     : 3
+Max value     : 89
+Average value : 26.75
